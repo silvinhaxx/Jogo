@@ -35,7 +35,7 @@ Transform:
   - {fileID: 239448079779444069}
   - {fileID: 8178014808696381114}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &5585793909706416394
 SpriteRenderer:
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 256f968a04de9f543ad727dfa7bebecc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  impulso: 20
+  impulso: 30
 --- !u!95 &5571515935367782406
 Animator:
   serializedVersion: 5

@@ -43,3 +43,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Plano
+    uniqueID: 3162462397
+    locked: 0
+  - name: Primeiro-Plano
+    uniqueID: 3306024301
+    locked: 0
+  - name: Segundo-Plano
+    uniqueID: 3042857291
+    locked: 0
